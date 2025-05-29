@@ -1,0 +1,35 @@
+classes:
+    - Computacao_1
+    - Computacao_2
+
+days: [Segunda, Terca, Quarta, Quinta, Sexta]
+
+hours:
+    - "08:00"
+    - "09:00"
+    - "10:00"
+    - "11:00"
+    - "13:00"
+    - "14:00"
+    - "15:00"
+    - "16:00"
+
+rooms:
+    type:
+        - Sala
+        - Lab
+    number:
+        - 5
+        - 3
+
+course_mapping:
+    - ["Lógica", Sala, "Laura", 2]
+    - ["Programação I", Lab, "Paes", 4]
+    - ["Matemática Discreta", Sala, "Pedro", 3]
+    - ["Álgebra Linear", Sala, "João", 2]
+    - ["Inglês Técnico", Sala, "English", 1]
+    - ["Ética Profissional", Sala, "Ethics", 1]
+    - ["Algoritmos", Lab, "Willy", 3]
+    - ["Banco de Dados", Lab, "Coutinho", 2]
+    - ["Engenharia de Software", Sala, "Arturo", 2]
+    - ["Metodologia Científica", Sala, "Academic", 2]

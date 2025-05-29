@@ -1,0 +1,51 @@
+classes:
+    - Engenharia_Mecanica
+    - Engenharia_Eletrica
+    - Ciencia_da_Computacao
+    - Engenharia_de_Software
+
+days: [Segunda, Terca, Quarta, Quinta, Sexta]
+
+hours:
+    - "07:00"
+    - "08:00"
+    - "09:00"
+    - "10:00"
+    - "11:00"
+    - "13:00"
+    - "14:00"
+    - "15:00"
+    - "16:00"
+    - "17:00"
+
+rooms:
+    type:
+        - Sala
+        - Lab
+    number:
+        - 8
+        - 4
+
+course_mapping:
+    - ["Programacao 1", Lab, "Paes", 3]
+    - ["Programacao 2", Lab, "Márcio", 3]
+    - ["Algoritmos e Estruturas de Dados", Lab, "Willy", 4]
+    - ["Banco de Dados", Lab, "Coutinho", 3]
+    - ["Redes de Computadores", Lab, "Almir", 2]
+    - ["Engenharia de Software", Sala, "Arturo", 3]
+    - ["Inteligencia Artificial", Lab, "Aydano", 2]
+    - ["Sistemas Operacionais", Lab, "Aquino", 3]
+
+    - ["Calculo I", Sala, "Xu", 3]
+    - ["Calculo II", Sala, "Xu", 3]
+    - ["Algebra Linear", Sala, "Joao", 3]
+    - ["Geometria Analitica", Sala, "Tiago", 2]
+    - ["Estatistica", Sala, "Laura", 2]
+    - ["Matematica Discreta", Sala, "Pedro", 3]
+
+    - ["Metodologia Cientifica", Sala, "Academic", 2]
+    - ["Etica Profissional", Sala, "Ethics", 1]
+    - ["Empreendedorismo", Sala, "Business", 2]
+    - ["Comunicacao e Expressao", Sala, "Language", 2]
+    - ["Ingles Tecnico", Sala, "English", 2]
+    - ["Gestao de Projetos", Sala, "Manager", 2]
