@@ -26,15 +26,15 @@ rooms:
         - Sala
         - Lab
     number:
-        - 12
-        - 9
+        - 5
+        - 3
 
 course_mapping:
-    - ["Cálculo I", Sala, "Laura", 3]
-    - ["Cálculo II", Sala, "Laura", 3]
-    - ["Álgebra Linear", Sala, "Paulo", 3]
-    - ["Física I", Sala, "Rafaela", 3]
-    - ["Física II", Sala, "Rafaela", 3]
+    - ["Cálculo I", Sala, "Laura", 4]
+    - ["Cálculo II", Sala, "Laura", 4]
+    - ["Álgebra Linear", Sala, "Paulo", 4]
+    - ["Física I", Sala, "Rafaela", 4]
+    - ["Física II", Sala, "Rafaela", 4]
     - ["Química", Sala, "Gustavo", 2]
     - ["Programação I", Lab, "Paes", 5]
     - ["Programação II", Lab, "Paes", 4]
@@ -46,12 +46,7 @@ course_mapping:
     - ["Empreendedorismo", Sala, "Willy", 2]
     - ["Gestão de Projetos", Sala, "Felipe", 2]
     - ["Direito", Sala, "Felipe", 2]
-    - ["Estatística", Sala, "Pedro", 3] # novo professor
+    - ["Estatística", Sala, "Pedro", 3]
     - ["Probabilidade", Sala, "Pedro", 3]
     - ["Matemática Discreta", Sala, "Xu", 3]
     - ["IA", Lab, "Rafael", 3]
-    - ["Compiladores", Lab, "Rafael", 3]
-    - ["Arquitetura", Lab, "Carlos", 4]
-    - ["Engenharia Econômica", Sala, "Paulo", 2]
-    - ["Pesquisa Operacional", Sala, "Willy", 3]
-    - ["Segurança da Informação", Lab, "Lucia", 3]

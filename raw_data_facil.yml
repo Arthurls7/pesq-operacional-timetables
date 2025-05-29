@@ -9,7 +9,6 @@ hours:
     - "09:00"
     - "10:00"
     - "11:00"
-    - "13:00"
     - "14:00"
     - "15:00"
     - "16:00"
@@ -19,17 +18,17 @@ rooms:
         - Sala
         - Lab
     number:
+        - 6
         - 5
-        - 3
 
 course_mapping:
     - ["Lógica", Sala, "Laura", 2]
-    - ["Programação I", Lab, "Paes", 4]
-    - ["Matemática Discreta", Sala, "Pedro", 3]
+    - ["Programação I", Lab, "Paes", 3]
+    - ["Matemática Discreta", Sala, "Pedro", 2]
     - ["Álgebra Linear", Sala, "João", 2]
     - ["Inglês Técnico", Sala, "English", 1]
     - ["Ética Profissional", Sala, "Ethics", 1]
-    - ["Algoritmos", Lab, "Willy", 3]
+    - ["Algoritmos", Lab, "Willy", 2]
     - ["Banco de Dados", Lab, "Coutinho", 2]
     - ["Engenharia de Software", Sala, "Arturo", 2]
     - ["Metodologia Científica", Sala, "Academic", 2]
