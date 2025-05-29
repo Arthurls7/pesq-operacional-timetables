@@ -1,52 +1,57 @@
 classes:
-  - Engenharia_Mecanica
-  - Engenharia_Eletrica
-  - Ciencia_da_Computacao
-  - Engenharia_de_Software
+    - Engenharia_Civil_1
+    - Engenharia_Civil_2
+    - Computacao_1
+    - Computacao_2
+    - Software_1
+    - Software_2
 
 days: [Segunda, Terca, Quarta, Quinta, Sexta]
 
 hours:
-  - "07:00"
-  - "08:00"
-  - "09:00"
-  - "10:00"
-  - "11:00"
-  - "13:00"
-  - "14:00"
-  - "15:00"
-  - "16:00"
-  - "17:00"
-
+    - "07:00"
+    - "08:00"
+    - "09:00"
+    - "10:00"
+    - "11:00"
+    - "13:00"
+    - "14:00"
+    - "15:00"
+    - "16:00"
+    - "17:00"
+    - "18:00"
 
 rooms:
-  type:
-    - Sala
-    - Lab
-  number:
-    - 8
-    - 4
+    type:
+        - Sala
+        - Lab
+    number:
+        - 12
+        - 9
 
 course_mapping:
-  - ["Programacao 1", Lab, "Paes", 3]
-  - ["Programacao 2", Lab, "Márcio", 3]
-  - ["Algoritmos e Estruturas de Dados", Lab, "Willy", 4]
-  - ["Banco de Dados", Lab, "Coutinho", 3]
-  - ["Redes de Computadores", Lab, "Almir", 2]
-  - ["Engenharia de Software", Sala, "Arturo", 3]
-  - ["Inteligencia Artificial", Lab, "Aydano", 2]
-  - ["Sistemas Operacionais", Lab, "Aquino", 3]
-
-  - ["Calculo I", Sala, "Xu", 3]
-  - ["Calculo II", Sala, "Xu", 3]
-  - ["Algebra Linear", Sala, "Joao", 3]
-  - ["Geometria Analitica", Sala, "Tiago", 2]
-  - ["Estatistica", Sala, "Laura", 2]
-  - ["Matematica Discreta", Sala, "Pedro", 3]
-
-  - ["Metodologia Cientifica", Sala, "Academic", 2]
-  - ["Etica Profissional", Sala, "Ethics", 1]
-  - ["Empreendedorismo", Sala, "Business", 2]
-  - ["Comunicacao e Expressao", Sala, "Language", 2]
-  - ["Ingles Tecnico", Sala, "English", 2]
-  - ["Gestao de Projetos", Sala, "Manager", 2]
+    - ["Cálculo I", Sala, "Laura", 3]
+    - ["Cálculo II", Sala, "Laura", 3]
+    - ["Álgebra Linear", Sala, "Paulo", 3]
+    - ["Física I", Sala, "Rafaela", 3]
+    - ["Física II", Sala, "Rafaela", 3]
+    - ["Química", Sala, "Gustavo", 2]
+    - ["Programação I", Lab, "Paes", 5]
+    - ["Programação II", Lab, "Paes", 4]
+    - ["Banco de Dados", Lab, "Ana", 4]
+    - ["Engenharia de Software", Lab, "Ana", 4]
+    - ["Redes", Lab, "Carlos", 3]
+    - ["Sistemas Operacionais", Lab, "Carlos", 2]
+    - ["Ética", Sala, "Willy", 2]
+    - ["Empreendedorismo", Sala, "Willy", 2]
+    - ["Gestão de Projetos", Sala, "Felipe", 2]
+    - ["Direito", Sala, "Felipe", 2]
+    - ["Estatística", Sala, "Pedro", 3] # novo professor
+    - ["Probabilidade", Sala, "Pedro", 3]
+    - ["Matemática Discreta", Sala, "Xu", 3]
+    - ["IA", Lab, "Rafael", 3]
+    - ["Compiladores", Lab, "Rafael", 3]
+    - ["Arquitetura", Lab, "Carlos", 4]
+    - ["Engenharia Econômica", Sala, "Paulo", 2]
+    - ["Pesquisa Operacional", Sala, "Willy", 3]
+    - ["Segurança da Informação", Lab, "Lucia", 3]
